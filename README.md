@@ -1,4 +1,4 @@
 # My Portfolio
 
-Visit my portfolio site here -  https://github.com/pritam554/my-portfolio.git
+Visit my portfolio site here -  (https://pritam554.github.io/my-portfolio/)
 
